@@ -1,0 +1,6 @@
+Test [WIP] 
+Test 2 [BUG]
+Test 3 [NOTE]
+Test 4 [ADDED]
+Test 5 [REMOVED]
+Test 6 [UPDATED]
