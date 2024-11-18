@@ -6,5 +6,6 @@ New Option system [UPDATED]
 New Playstate HUD [UPDATED]
 Removed middlescroll toggle option [REMOVED]
 Fixed story mode & freeplay save data [BUG]
+Controls Menu under work [WIP]
 
 the following updates & additions affected several states including backend scripts [NOTE]
