@@ -1,0 +1,10 @@
+Game to Discord Communication system [ADDED]
+send screenshots, tracelog & crash log to the developer server [ADDED]
+Discord Bot remote control [ADDED]
+fixed storymode Check for Pause menu [BUG]
+Fixed MainMenustate & Playstate.fromstoryMode & shader crash problem [BUG]
+Controls Menu under work [WIP]
+Mouse Wheel function for Options Menu [WIP]
+
+the following updates & additions affected several states including backend scripts [NOTE]
+the Controls menu uses the psych's engine default controls menu for now [NOTE]
